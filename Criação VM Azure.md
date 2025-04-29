@@ -1,7 +1,5 @@
 # Criação de VM em Azure | Redundância - SLA 
 
-(https://github.com/user-attachments/assets/3f26af72-2191-4a00-a495-88b51af22836)
-
 ## 1. Acesse o Portal do Azure 🌐
 
 Primeiro, faça login no [portal do Azure](https://portal.azure.com). É onde você vai gerenciar todos os seus recursos.
