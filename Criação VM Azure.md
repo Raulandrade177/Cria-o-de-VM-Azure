@@ -1,4 +1,4 @@
-# Criação de VM em Azure | Redundância - SLA 
+# Criação de VM em Azure
 
 ## 1. Acesse o Portal do Azure 🌐
 
